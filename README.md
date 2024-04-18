@@ -1,4 +1,4 @@
-# Lesson_18_Writing_a_Cover_Letter Practical Task 2
+# Lesson 18 Writing a Cover Letter Practical Task 2
 
 This week, we have explored how to write a professional cover letter. Now, it's time to put your skills into practice. Your task is to write a cover letter for a hypothetical job application. Imagine you are applying for a position that aligns with your field of study or career interests. This could be a role in a company that you admire or a position that fits your academic/professional skills. Address your cover letter to Ms. Jane Doe, the Hiring Manager at the company of your choice. In your letter, showcase how your educational background, skills, and experiences make you an ideal candidate for the position. Remember to tailor your letter specifically to the job and company, demonstrating your knowledge about them and how your goals align with their mission.
 

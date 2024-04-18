@@ -13,3 +13,5 @@ Are there skill words, results-oriented words, and words that show recognition f
 Is there any language from the lesson on making a self-presentation (at least 10 phrases to describe educational background, skills, knowledge, and experience)?
 Is there evidence of plagiarism or AI work (please, no GPT-generate texts)?
 Word count: 160-180 words
+
+Task response in the repository docx file.
